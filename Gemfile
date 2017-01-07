@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'rubygems'
+gem 'colorize'
+gem 'hpricot'
+gem 'nokogiri'
+gem 'tor_requests'
