@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-gem 'rubygems'
 gem 'colorize'
 gem 'hpricot'
 gem 'nokogiri'
